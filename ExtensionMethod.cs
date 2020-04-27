@@ -1,4 +1,6 @@
-﻿using System;
+//EXTENSION METHOD
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
