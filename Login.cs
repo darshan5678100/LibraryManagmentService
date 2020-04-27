@@ -1,4 +1,6 @@
-﻿using System;
+//LOGIN ENTITY I AM ACCESS THIS CLASS MEMBER LIKE ARRAY MEMBERS﻿
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
